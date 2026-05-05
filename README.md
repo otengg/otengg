@@ -31,11 +31,11 @@ Self-hosted infrastructure for the curiosity tax.
 
 | Domain | Active | Building toward |
 | --- | --- | --- |
-| **Network & Security** | Cisco · CompTIA · pfSense · UniFi · Palo Alto · Fortinet | Detection-as-code · deeper Zero Trust |
-| **Cloud** | AWS · Azure · Cloudflare (Tunnel, Access, DNS-01) | GCP fundamentals |
-| **Platform** | Proxmox · Linux · Docker · nginx · Let's Encrypt | k3s · ArgoCD |
-| **Detection & Defense** | Sigma · CloudGoat · Stratus Red Team · Security Onion | Falco · Loki · Tempo |
-| **Automation** | Python · Bash · Cloudflare API | Ansible · Terraform |
+| **Routing & WAN** | BGP · OSPF · EIGRP · MPLS · MP-BGP/VPN · SD-WAN · Multicast · IPv6 · QoS · Wireless | Segment routing · BGP-EVPN |
+| **Network Security** | Palo Alto · Fortinet · Cisco ASA/Firepower · Zero Trust · IDS/IPS · SIEM · ZIA/ZPA | Sigma · CloudGoat · Stratus Red Team · cloud-native defense |
+| **Cloud** | AWS · Azure (AZ-104) · Cloudflare (Tunnel, Access, DNS-01) | GCP · multi-cloud security |
+| **Platform & Infra** | Proxmox · Linux · Docker · nginx · pfSense · UniFi · Let's Encrypt | k3s · ArgoCD |
+| **Tools & Automation** | Wireshark · ServiceNow · SolarWinds · Cisco DNAC · Python · Bash | Ansible · Terraform |
 
 ## Live Work
 
