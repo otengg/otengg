@@ -8,12 +8,14 @@ Self-hosted infrastructure for the curiosity tax.
 [![Location](https://img.shields.io/badge/dc_metro-remote_friendly-1f6feb?style=for-the-badge&labelColor=0d1117)](#)
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-FA582D?style=flat-square&logo=paloaltosoftware&logoColor=white)
+![Aruba](https://img.shields.io/badge/Aruba-FF7A00?style=flat-square&logo=arubanetworks&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -31,11 +33,13 @@ Self-hosted infrastructure for the curiosity tax.
 
 | Domain | Active | Building toward |
 | --- | --- | --- |
-| **Routing & WAN** | BGP · OSPF · EIGRP · MPLS · MP-BGP/VPN · SD-WAN · Multicast · IPv6 · QoS · Wireless | Segment routing · BGP-EVPN |
-| **Network Security** | Palo Alto · Fortinet · Cisco ASA/Firepower · Zero Trust · IDS/IPS · SIEM · ZIA/ZPA | Sigma · CloudGoat · Stratus Red Team · cloud-native defense |
-| **Cloud** | AWS · Azure (AZ-104) · Cloudflare (Tunnel, Access, DNS-01) | GCP · multi-cloud security |
-| **Platform & Infra** | Proxmox · Linux · Docker · nginx · pfSense · UniFi · Let's Encrypt | k3s · ArgoCD |
-| **Tools & Automation** | Wireshark · ServiceNow · SolarWinds · Cisco DNAC · Python · Bash | Ansible · Terraform |
+| **Networking & Routing** | BGP · OSPF · IS-IS · MPLS · LAN/WAN · VLANs · TCP/IP · DHCP · DNS · SNMP · ICMP · ARP · CGNAT · Network Segmentation · DMZ | Segment routing · BGP-EVPN |
+| **Firewall, SD-WAN & SASE** | Cisco ASA · Firepower/FTD · Palo Alto · Meraki · Aruba · Fortinet · pfSense · Juniper · Cisco vManage · Aruba EdgeConnect · Cato SASE · IPsec/SSL VPN · GlobalProtect · Zero Trust | Cloud-native security gateways |
+| **Identity & Access** | AAA (TACACS+/RADIUS/LDAP) · Cisco ISE · Okta · Active Directory · Azure AD · RSA SecurID · SSO/Federation | Identity-aware proxies · BeyondCorp patterns |
+| **Security Operations** | NIST CSF · IR (P1/P2) · Threat & Vuln Mgmt · IDS/IPS (Snort, Suricata) · Malware analysis · DLP · OSINT · SIEM (Splunk, ELK) · RCA · Postmortems · DR · Endpoint (Symantec, McAfee) | Sigma · CloudGoat · Stratus Red Team · detection-as-code |
+| **Cloud & Platforms** | AWS · Azure (AZ-104) · Cloudflare (Tunnel, Access, DNS-01) · VPC · Private Endpoints · Load Balancers (L4-L7, ALB/NLB) · Windows Server (AD, DNS, DHCP) · Linux (Ubuntu, CentOS, Kali) · macOS · VMware ESXi · Proxmox | GCP · multi-cloud security |
+| **Observability & Tooling** | Splunk · ELK · Grafana · Prometheus · Nessus · Wireshark · tcpdump · SecureCRT · PuTTY · Cisco CML · EVE-NG · ServiceNow · Aruba Orchestrator · CyberVault | Loki · Tempo · OpenTelemetry |
+| **Programming & Scripting** | Python · Bash · PowerShell · Java · SQL · HTML/CSS | Ansible · Terraform |
 
 ## Live Work
 
